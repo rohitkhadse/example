@@ -5,3 +5,7 @@ body{
 input{
     border:2px solid blue;
 }
+
+.strong{
+    font-weight: bold;
+}
